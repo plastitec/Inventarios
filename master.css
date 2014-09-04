@@ -1,0 +1,49 @@
+/*Body*/
+.body{ background-color:#ebebeb;}
+/*Estilo Encabezado*/
+.enc1 { font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:#6a6c6d;font-weight:bold;text-decoration:none; }
+
+
+/*Estilo Contenido*/
+.title { font-family:arial;font-size:12px;color:#333;font-weight:bold;text-decoration:none; }
+.err { font-family:arial;font-size:16px;color:#FF0000;font-weight:bold;text-decoration:none; }
+.err2 { font-family:arial;font-size:12px;color:#FF0000;font-weight:bold;text-decoration:none; }
+.subtitle { font-family:arial;font-size:12px;color:#006699;font-weight:bold;text-decoration:underline; }
+.subtitle2 { font-family:arial;font-size:12px;color:#990000;text-decoration:none; }
+.content { font-family:arial;font-size:12px;color:#333;text-decoration:none; }
+.contentK { font-family:arial;font-size:11px;color:#111111;text-decoration:none; color:#000; }
+.contentK2 { font-family:arial;font-size:10px;color:#111111;text-decoration:none; color:#4A4A4A; }
+.contentD { font-family:arial;font-size:9px;color:#000000; font-weight:bolder; }
+.contentfac { font-family:arial narrow;font-size:12px;color:#333;text-decoration:none; }
+.movs { font-family:arial;font-size:12px;color:#990000;text-decoration:underline;font-weight:bold; }
+/*Cuadro de Imágenes*/
+.corntopleft { background-image:url(Images/diseño_progINV_01.jpg);}
+.middletop { background-image:url(Images/diseño_progINV_03.jpg); background-repeat:repeat-x; background-position: top;}
+.corntopright { background-image:url(Images/diseño_progINV_05.jpg);height:37px;}
+.left { background-image:url(Images/diseño_progINV_09.jpg); background-repeat:repeat-y; background-position: top; width:55px}
+.right { background-image:url(Images/diseño_progINV_12.jpg); background-repeat:repeat-y; background-position: top; width:58px}
+.cornbottleft { background-image:url(Images/diseño_progINV_13.jpg); background-position:bottom;}
+.middlebott { background-image:url(Images/diseño_progINV_15.jpg); background-repeat:repeat-x; background-position: bottom;}
+.cornbottright { background-image:url(Images/diseño_progINV_17.jpg); background-repeat:repeat-y; background-position:bottom; height:30px}
+/*Estilo Sucursales*/
+.mex { font-family:arial;font-size:10px;color:#FF6600;font-weight:bold;text-decoration:none; }
+.gto { font-family:arial;font-size:10px;color:#660033;font-weight:bold;text-decoration:none; }
+.gdl { font-family:arial;font-size:10px;color:#990000;font-weight:bold;text-decoration:none; }
+.mty { font-family:arial;font-size:10px;color:#3300FF;font-weight:bold;text-decoration:none; }
+.pue { font-family:arial;font-size:10px;color:#663333;font-weight:bold;text-decoration:none; }
+.ver { font-family:arial;font-size:10px;color:#330066;font-weight:bold;text-decoration:none; }
+.cun { font-family:arial;font-size:10px;color:#00CCFF;font-weight:bold;text-decoration:none; }
+.mid { font-family:arial;font-size:10px;color:#993399;font-weight:bold;text-decoration:none; }
+.cuu { font-family:arial;font-size:10px;color:#CC3333;font-weight:bold;text-decoration:none; }
+.qro { font-family:arial;font-size:10px;color:#006600;font-weight:bold;text-decoration:none; }
+/*Formulario*/
+.send {
+border:0;
+background-color:#FFF;
+height:30px;
+width:120px;
+background-image:url(Images/consultar.png);
+}
+.editnull {
+color:#999;
+}
